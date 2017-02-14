@@ -1,0 +1,44 @@
+div.dropdown {
+  text-align:center;
+}
+
+body {
+  /*background-image:bg.jpeg;*/
+}
+
+body {
+  /*background-color:blue;*/
+}
+
+i {
+ padding: 1%;
+ cursor: pointer;
+}
+
+#submitHome {
+  opacity: 0.5;
+  background-color: #d3dcea
+}
+
+#submitHome:hover {
+  opacity: 1.0;
+  transition: ease 0.25s;
+}
+
+#postButton {
+  padding: 10px 15px 11px !important;
+  font-size: 13px !important;
+  background-color: gray;
+  font-weight: bold;
+  /*text-shadow: 1px 1px #57D6C7;*/
+  color: white;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border: 1px solid white;
+  cursor: pointer;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+  -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+  -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+}
+}
